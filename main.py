@@ -8,6 +8,7 @@ def elegir_pieza():
     return jug1, jug2
 
 
+
 def ganador(t):
     g = None
     for i in range(3):
